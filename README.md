@@ -9,5 +9,4 @@
 
 ### [Donald A. Norman's](https://en.wikipedia.org/wiki/Don_Norman) Definition to Affordance: 
 
-* Donald A. Norman's definition to affordance: [https://www.cambridge.org/core/journals/ai-edam/article/affordances-commentary-on-the-special-issue-of-ai-edam/6BCEB499E4856C58EDF400544362415D](https://www.cambridge.org/core/journals/ai-edam/article/affordances-commentary-on-the-special-issue-of-ai-edam/6BCEB499E4856C58EDF400544362415D)
-* 
+* Donald A. Norman's definition to affordance: [Read Here](https://www.cambridge.org/core/journals/ai-edam/article/affordances-commentary-on-the-special-issue-of-ai-edam/6BCEB499E4856C58EDF400544362415D)
